@@ -41,7 +41,7 @@ include 'components/save_send.php';
       <form action="search.php" method="post">
          <h3>find your perfect home</h3>
          <div class="box">
-            <p>enter location <span>*</span></p>
+            <p>Enter Location <span>*</span></p>
             <input type="text" name="h_location" required maxlength="100" placeholder="enter city name" class="input">
          </div>
          <div class="flex">
